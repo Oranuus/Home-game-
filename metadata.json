@@ -1,0 +1,6 @@
+{
+  "name": "The Haunted House: Pixel Survival",
+  "description": "A 2D pixel horror survival game inspired by Steam's House with real-time anomaly loops, multi-floor exploration, monsters, items, and phone touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
